@@ -1,3 +1,2 @@
 # git_test
-nat's first GitHub repo!
-Hello Odin!
+a e i o u
